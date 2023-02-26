@@ -6,9 +6,13 @@ From Zero Repository Doing DevOps Work
 ## Create a project Scaffold
 
 Create development environment that is cloud-based
+
 ### Github codespaces
+
 ### Colab Notebook
+**Learn How to use Colab(https://github.com/DananjayaFernando98/Python-for-DevOps--2023/blob/main/Start_Python_01.ipynb)
 ### AWS CloudShell 
+
 ### AWS Cloud9
 
 
