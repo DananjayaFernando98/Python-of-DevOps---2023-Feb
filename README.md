@@ -1,4 +1,4 @@
-# Python-of-DevOps---2023-Feb
+# Python-of-DevOps--- 2023-Feb
 From Zero Repository Doing DevOps Work
 ![Drawing sketchpad](https://user-images.githubusercontent.com/65001699/221351150-4ffe9967-b2eb-49f3-acb5-44659b297f29.png)
 
@@ -16,8 +16,12 @@ Create development environment that is cloud-based
  * Requirment.txt
  * test_library.py
  * python_library
+ * Dockerfile
  * command-line-tool
- * Microservice  
+ * Microservice
+ 
+ 01. Craete Virtual Enviroment : `virtualenv ~/.venu`
+ 02. Edit my `~.bashrc` (vim ~./bashrc)
 
 ### AWS CloudShell 
 
